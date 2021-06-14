@@ -1,0 +1,15 @@
+.container {
+  height: 300px;
+  width: 500px;
+  border: 1px solid black;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+}
+.operations__block .operation__block {
+  padding: 20px;
+  margin: 20px;
+}
+.input__number {
+  display: block;
+}
